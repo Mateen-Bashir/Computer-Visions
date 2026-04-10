@@ -1,0 +1,8 @@
+numpy
+opencv-python
+pandas
+scikit-learn
+joblib
+matplotlib
+tf-nightly; python_version >= "3.13"
+streamlit
