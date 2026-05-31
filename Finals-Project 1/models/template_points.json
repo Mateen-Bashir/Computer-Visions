@@ -1,0 +1,844 @@
+{
+  "points": [
+    {
+      "question_id": 1,
+      "option": "A",
+      "x": 125,
+      "y": 23,
+      "radius": 14
+    },
+    {
+      "question_id": 1,
+      "option": "B",
+      "x": 178,
+      "y": 24,
+      "radius": 14
+    },
+    {
+      "question_id": 1,
+      "option": "C",
+      "x": 230,
+      "y": 24,
+      "radius": 14
+    },
+    {
+      "question_id": 1,
+      "option": "D",
+      "x": 283,
+      "y": 25,
+      "radius": 14
+    },
+    {
+      "question_id": 2,
+      "option": "A",
+      "x": 125,
+      "y": 77,
+      "radius": 14
+    },
+    {
+      "question_id": 2,
+      "option": "B",
+      "x": 177,
+      "y": 78,
+      "radius": 14
+    },
+    {
+      "question_id": 2,
+      "option": "C",
+      "x": 230,
+      "y": 79,
+      "radius": 14
+    },
+    {
+      "question_id": 2,
+      "option": "D",
+      "x": 282,
+      "y": 80,
+      "radius": 14
+    },
+    {
+      "question_id": 3,
+      "option": "A",
+      "x": 125,
+      "y": 131,
+      "radius": 14
+    },
+    {
+      "question_id": 3,
+      "option": "B",
+      "x": 177,
+      "y": 132,
+      "radius": 14
+    },
+    {
+      "question_id": 3,
+      "option": "C",
+      "x": 229,
+      "y": 133,
+      "radius": 14
+    },
+    {
+      "question_id": 3,
+      "option": "D",
+      "x": 282,
+      "y": 134,
+      "radius": 14
+    },
+    {
+      "question_id": 4,
+      "option": "A",
+      "x": 124,
+      "y": 185,
+      "radius": 14
+    },
+    {
+      "question_id": 4,
+      "option": "B",
+      "x": 177,
+      "y": 187,
+      "radius": 14
+    },
+    {
+      "question_id": 4,
+      "option": "C",
+      "x": 229,
+      "y": 188,
+      "radius": 14
+    },
+    {
+      "question_id": 4,
+      "option": "D",
+      "x": 281,
+      "y": 189,
+      "radius": 14
+    },
+    {
+      "question_id": 5,
+      "option": "A",
+      "x": 124,
+      "y": 239,
+      "radius": 14
+    },
+    {
+      "question_id": 5,
+      "option": "B",
+      "x": 176,
+      "y": 241,
+      "radius": 14
+    },
+    {
+      "question_id": 5,
+      "option": "C",
+      "x": 229,
+      "y": 242,
+      "radius": 14
+    },
+    {
+      "question_id": 5,
+      "option": "D",
+      "x": 281,
+      "y": 244,
+      "radius": 14
+    },
+    {
+      "question_id": 6,
+      "option": "A",
+      "x": 124,
+      "y": 294,
+      "radius": 14
+    },
+    {
+      "question_id": 6,
+      "option": "B",
+      "x": 176,
+      "y": 295,
+      "radius": 14
+    },
+    {
+      "question_id": 6,
+      "option": "C",
+      "x": 228,
+      "y": 297,
+      "radius": 14
+    },
+    {
+      "question_id": 6,
+      "option": "D",
+      "x": 280,
+      "y": 298,
+      "radius": 14
+    },
+    {
+      "question_id": 7,
+      "option": "A",
+      "x": 124,
+      "y": 348,
+      "radius": 14
+    },
+    {
+      "question_id": 7,
+      "option": "B",
+      "x": 176,
+      "y": 349,
+      "radius": 14
+    },
+    {
+      "question_id": 7,
+      "option": "C",
+      "x": 228,
+      "y": 351,
+      "radius": 14
+    },
+    {
+      "question_id": 7,
+      "option": "D",
+      "x": 280,
+      "y": 353,
+      "radius": 14
+    },
+    {
+      "question_id": 8,
+      "option": "A",
+      "x": 123,
+      "y": 402,
+      "radius": 14
+    },
+    {
+      "question_id": 8,
+      "option": "B",
+      "x": 175,
+      "y": 404,
+      "radius": 14
+    },
+    {
+      "question_id": 8,
+      "option": "C",
+      "x": 227,
+      "y": 406,
+      "radius": 14
+    },
+    {
+      "question_id": 8,
+      "option": "D",
+      "x": 279,
+      "y": 408,
+      "radius": 14
+    },
+    {
+      "question_id": 9,
+      "option": "A",
+      "x": 123,
+      "y": 456,
+      "radius": 14
+    },
+    {
+      "question_id": 9,
+      "option": "B",
+      "x": 175,
+      "y": 458,
+      "radius": 14
+    },
+    {
+      "question_id": 9,
+      "option": "C",
+      "x": 227,
+      "y": 460,
+      "radius": 14
+    },
+    {
+      "question_id": 9,
+      "option": "D",
+      "x": 279,
+      "y": 462,
+      "radius": 14
+    },
+    {
+      "question_id": 10,
+      "option": "A",
+      "x": 123,
+      "y": 510,
+      "radius": 14
+    },
+    {
+      "question_id": 10,
+      "option": "B",
+      "x": 175,
+      "y": 512,
+      "radius": 14
+    },
+    {
+      "question_id": 10,
+      "option": "C",
+      "x": 226,
+      "y": 515,
+      "radius": 14
+    },
+    {
+      "question_id": 10,
+      "option": "D",
+      "x": 278,
+      "y": 517,
+      "radius": 14
+    },
+    {
+      "question_id": 11,
+      "option": "A",
+      "x": 473,
+      "y": 30,
+      "radius": 14
+    },
+    {
+      "question_id": 11,
+      "option": "B",
+      "x": 524,
+      "y": 33,
+      "radius": 14
+    },
+    {
+      "question_id": 11,
+      "option": "C",
+      "x": 575,
+      "y": 37,
+      "radius": 14
+    },
+    {
+      "question_id": 11,
+      "option": "D",
+      "x": 626,
+      "y": 40,
+      "radius": 14
+    },
+    {
+      "question_id": 12,
+      "option": "A",
+      "x": 473,
+      "y": 84,
+      "radius": 14
+    },
+    {
+      "question_id": 12,
+      "option": "B",
+      "x": 524,
+      "y": 87,
+      "radius": 14
+    },
+    {
+      "question_id": 12,
+      "option": "C",
+      "x": 575,
+      "y": 90,
+      "radius": 14
+    },
+    {
+      "question_id": 12,
+      "option": "D",
+      "x": 626,
+      "y": 93,
+      "radius": 14
+    },
+    {
+      "question_id": 13,
+      "option": "A",
+      "x": 473,
+      "y": 139,
+      "radius": 14
+    },
+    {
+      "question_id": 13,
+      "option": "B",
+      "x": 523,
+      "y": 142,
+      "radius": 14
+    },
+    {
+      "question_id": 13,
+      "option": "C",
+      "x": 574,
+      "y": 144,
+      "radius": 14
+    },
+    {
+      "question_id": 13,
+      "option": "D",
+      "x": 625,
+      "y": 147,
+      "radius": 14
+    },
+    {
+      "question_id": 14,
+      "option": "A",
+      "x": 472,
+      "y": 193,
+      "radius": 14
+    },
+    {
+      "question_id": 14,
+      "option": "B",
+      "x": 523,
+      "y": 196,
+      "radius": 14
+    },
+    {
+      "question_id": 14,
+      "option": "C",
+      "x": 574,
+      "y": 198,
+      "radius": 14
+    },
+    {
+      "question_id": 14,
+      "option": "D",
+      "x": 625,
+      "y": 200,
+      "radius": 14
+    },
+    {
+      "question_id": 15,
+      "option": "A",
+      "x": 472,
+      "y": 248,
+      "radius": 14
+    },
+    {
+      "question_id": 15,
+      "option": "B",
+      "x": 523,
+      "y": 250,
+      "radius": 14
+    },
+    {
+      "question_id": 15,
+      "option": "C",
+      "x": 574,
+      "y": 252,
+      "radius": 14
+    },
+    {
+      "question_id": 15,
+      "option": "D",
+      "x": 624,
+      "y": 254,
+      "radius": 14
+    },
+    {
+      "question_id": 16,
+      "option": "A",
+      "x": 472,
+      "y": 302,
+      "radius": 14
+    },
+    {
+      "question_id": 16,
+      "option": "B",
+      "x": 523,
+      "y": 304,
+      "radius": 14
+    },
+    {
+      "question_id": 16,
+      "option": "C",
+      "x": 573,
+      "y": 306,
+      "radius": 14
+    },
+    {
+      "question_id": 16,
+      "option": "D",
+      "x": 624,
+      "y": 307,
+      "radius": 14
+    },
+    {
+      "question_id": 17,
+      "option": "A",
+      "x": 472,
+      "y": 357,
+      "radius": 14
+    },
+    {
+      "question_id": 17,
+      "option": "B",
+      "x": 522,
+      "y": 358,
+      "radius": 14
+    },
+    {
+      "question_id": 17,
+      "option": "C",
+      "x": 573,
+      "y": 359,
+      "radius": 14
+    },
+    {
+      "question_id": 17,
+      "option": "D",
+      "x": 623,
+      "y": 361,
+      "radius": 14
+    },
+    {
+      "question_id": 18,
+      "option": "A",
+      "x": 471,
+      "y": 411,
+      "radius": 14
+    },
+    {
+      "question_id": 18,
+      "option": "B",
+      "x": 522,
+      "y": 412,
+      "radius": 14
+    },
+    {
+      "question_id": 18,
+      "option": "C",
+      "x": 572,
+      "y": 413,
+      "radius": 14
+    },
+    {
+      "question_id": 18,
+      "option": "D",
+      "x": 623,
+      "y": 414,
+      "radius": 14
+    },
+    {
+      "question_id": 19,
+      "option": "A",
+      "x": 471,
+      "y": 466,
+      "radius": 14
+    },
+    {
+      "question_id": 19,
+      "option": "B",
+      "x": 522,
+      "y": 466,
+      "radius": 14
+    },
+    {
+      "question_id": 19,
+      "option": "C",
+      "x": 572,
+      "y": 467,
+      "radius": 14
+    },
+    {
+      "question_id": 19,
+      "option": "D",
+      "x": 622,
+      "y": 468,
+      "radius": 14
+    },
+    {
+      "question_id": 20,
+      "option": "A",
+      "x": 471,
+      "y": 520,
+      "radius": 14
+    },
+    {
+      "question_id": 20,
+      "option": "B",
+      "x": 521,
+      "y": 520,
+      "radius": 14
+    },
+    {
+      "question_id": 20,
+      "option": "C",
+      "x": 572,
+      "y": 521,
+      "radius": 14
+    },
+    {
+      "question_id": 20,
+      "option": "D",
+      "x": 622,
+      "y": 521,
+      "radius": 14
+    },
+    {
+      "question_id": 21,
+      "option": "A",
+      "x": 813,
+      "y": 46,
+      "radius": 14
+    },
+    {
+      "question_id": 21,
+      "option": "B",
+      "x": 862,
+      "y": 47,
+      "radius": 14
+    },
+    {
+      "question_id": 21,
+      "option": "C",
+      "x": 912,
+      "y": 49,
+      "radius": 14
+    },
+    {
+      "question_id": 21,
+      "option": "D",
+      "x": 961,
+      "y": 50,
+      "radius": 14
+    },
+    {
+      "question_id": 22,
+      "option": "A",
+      "x": 813,
+      "y": 99,
+      "radius": 14
+    },
+    {
+      "question_id": 22,
+      "option": "B",
+      "x": 862,
+      "y": 100,
+      "radius": 14
+    },
+    {
+      "question_id": 22,
+      "option": "C",
+      "x": 911,
+      "y": 102,
+      "radius": 14
+    },
+    {
+      "question_id": 22,
+      "option": "D",
+      "x": 961,
+      "y": 103,
+      "radius": 14
+    },
+    {
+      "question_id": 23,
+      "option": "A",
+      "x": 812,
+      "y": 152,
+      "radius": 14
+    },
+    {
+      "question_id": 23,
+      "option": "B",
+      "x": 862,
+      "y": 153,
+      "radius": 14
+    },
+    {
+      "question_id": 23,
+      "option": "C",
+      "x": 911,
+      "y": 155,
+      "radius": 14
+    },
+    {
+      "question_id": 23,
+      "option": "D",
+      "x": 960,
+      "y": 156,
+      "radius": 14
+    },
+    {
+      "question_id": 24,
+      "option": "A",
+      "x": 812,
+      "y": 205,
+      "radius": 14
+    },
+    {
+      "question_id": 24,
+      "option": "B",
+      "x": 861,
+      "y": 206,
+      "radius": 14
+    },
+    {
+      "question_id": 24,
+      "option": "C",
+      "x": 911,
+      "y": 208,
+      "radius": 14
+    },
+    {
+      "question_id": 24,
+      "option": "D",
+      "x": 960,
+      "y": 209,
+      "radius": 14
+    },
+    {
+      "question_id": 25,
+      "option": "A",
+      "x": 811,
+      "y": 258,
+      "radius": 14
+    },
+    {
+      "question_id": 25,
+      "option": "B",
+      "x": 861,
+      "y": 259,
+      "radius": 14
+    },
+    {
+      "question_id": 25,
+      "option": "C",
+      "x": 910,
+      "y": 261,
+      "radius": 14
+    },
+    {
+      "question_id": 25,
+      "option": "D",
+      "x": 960,
+      "y": 262,
+      "radius": 14
+    },
+    {
+      "question_id": 26,
+      "option": "A",
+      "x": 811,
+      "y": 310,
+      "radius": 14
+    },
+    {
+      "question_id": 26,
+      "option": "B",
+      "x": 860,
+      "y": 312,
+      "radius": 14
+    },
+    {
+      "question_id": 26,
+      "option": "C",
+      "x": 910,
+      "y": 314,
+      "radius": 14
+    },
+    {
+      "question_id": 26,
+      "option": "D",
+      "x": 959,
+      "y": 316,
+      "radius": 14
+    },
+    {
+      "question_id": 27,
+      "option": "A",
+      "x": 810,
+      "y": 363,
+      "radius": 14
+    },
+    {
+      "question_id": 27,
+      "option": "B",
+      "x": 860,
+      "y": 365,
+      "radius": 14
+    },
+    {
+      "question_id": 27,
+      "option": "C",
+      "x": 909,
+      "y": 367,
+      "radius": 14
+    },
+    {
+      "question_id": 27,
+      "option": "D",
+      "x": 959,
+      "y": 369,
+      "radius": 14
+    },
+    {
+      "question_id": 28,
+      "option": "A",
+      "x": 810,
+      "y": 416,
+      "radius": 14
+    },
+    {
+      "question_id": 28,
+      "option": "B",
+      "x": 859,
+      "y": 418,
+      "radius": 14
+    },
+    {
+      "question_id": 28,
+      "option": "C",
+      "x": 909,
+      "y": 420,
+      "radius": 14
+    },
+    {
+      "question_id": 28,
+      "option": "D",
+      "x": 959,
+      "y": 422,
+      "radius": 14
+    },
+    {
+      "question_id": 29,
+      "option": "A",
+      "x": 809,
+      "y": 469,
+      "radius": 14
+    },
+    {
+      "question_id": 29,
+      "option": "B",
+      "x": 859,
+      "y": 471,
+      "radius": 14
+    },
+    {
+      "question_id": 29,
+      "option": "C",
+      "x": 909,
+      "y": 473,
+      "radius": 14
+    },
+    {
+      "question_id": 29,
+      "option": "D",
+      "x": 958,
+      "y": 475,
+      "radius": 14
+    },
+    {
+      "question_id": 30,
+      "option": "A",
+      "x": 809,
+      "y": 522,
+      "radius": 14
+    },
+    {
+      "question_id": 30,
+      "option": "B",
+      "x": 859,
+      "y": 524,
+      "radius": 14
+    },
+    {
+      "question_id": 30,
+      "option": "C",
+      "x": 908,
+      "y": 526,
+      "radius": 14
+    },
+    {
+      "question_id": 30,
+      "option": "D",
+      "x": 958,
+      "y": 528,
+      "radius": 14
+    }
+  ]
+}

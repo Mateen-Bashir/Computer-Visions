@@ -1,0 +1,38 @@
+{
+  "sheet_id": 143,
+  "image_file": "143.jpg",
+  "timestamp": "2026-05-30T21:38:50",
+  "model": "cnn_transfer",
+  "template_source": "exact template points",
+  "summary": {
+    "total": 30,
+    "correct": 27,
+    "wrong": 3,
+    "unattempted": 0,
+    "accuracy": 90.0,
+    "avg_confidence": 0.784,
+    "low_confidence_count": 0,
+    "section_1_accuracy": 90.0,
+    "section_2_accuracy": 100.0,
+    "section_3_accuracy": 80.0,
+    "template_drift_px": 2.22,
+    "template_drift_warning": false,
+    "final_marks": 26.25
+  },
+  "marking_scheme": {
+    "correct": 1.0,
+    "wrong": -0.25,
+    "unattempted": 0.0
+  },
+  "review_queue_count": 8,
+  "review_queue_questions": [
+    7,
+    10,
+    16,
+    18,
+    23,
+    24,
+    26,
+    30
+  ]
+}
